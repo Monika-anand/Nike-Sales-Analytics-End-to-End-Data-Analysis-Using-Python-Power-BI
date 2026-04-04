@@ -27,7 +27,7 @@ The project transforms raw and uncleaned sales data into meaningful business ins
 ---
 
 ## 📁 Dataset Information
-
+- <a href="https://github.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/blob/main/Nike_Sales_Uncleaned.xlsx">Dataset</a>
 - Source: Kaggle  
 - Dataset: Nike Sales (Uncleaned Dataset)  
 - Records: 2500+ transactions  
@@ -92,10 +92,31 @@ The dataset contains real-world issues such as missing values, duplicates, incor
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+### 📊 Revenue Analysis
+![Revenue Analysis](https://raw.githubusercontent.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/main/Revenue%20Analysis.png)
+
+📌 Provides an overview of total revenue, profit, units sold, and overall business performance
 
 ---
 
+### 📊 Product Analysis
+![Product Analysis](https://raw.githubusercontent.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/main/Product%20Analysis.png)
+
+📌 Shows product performance, revenue contribution, and profit comparison across categories.
+
+---
+
+### 📊 Trend Analysis
+![Trend Analysis](https://raw.githubusercontent.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/main/Trend%20Analysis.png)
+
+📌 Displays yearly and monthly sales trends to identify growth patterns.
+
+---
+
+### 📊 Region Analysis
+![Region Analysis](https://raw.githubusercontent.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/main/Region%20Analysis.png)
+
+📌 Highlights revenue distribution across different regions and cities.
 ## 🚀 Business Recommendations
 - Focus on high-performing regions and product categories  
 - Optimize discount strategies to maintain profit margins  
