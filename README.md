@@ -133,4 +133,5 @@ This project demonstrates how data analytics techniques can convert raw sales da
 
 ## 👨‍💻 Author
 Monika Muruganantham 
+
 Data Analytics Project  
