@@ -117,7 +117,10 @@ The data cleaning process was performed using Python in Google Colab. It include
 ![Region Analysis](https://raw.githubusercontent.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/main/Region%20Analysis.png)
 
 📌 Highlights revenue distribution across different regions and cities.
+
 ## 🚀 Business Recommendations
+📥 [Download Full Documentation](Documentation%20Project.pdf)
+
 - Focus on high-performing regions and product categories  
 - Optimize discount strategies to maintain profit margins  
 - Strengthen online sales channels and digital marketing  
