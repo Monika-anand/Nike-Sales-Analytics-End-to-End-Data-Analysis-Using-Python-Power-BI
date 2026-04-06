@@ -49,11 +49,11 @@ The dataset contains real-world issues such as missing values, duplicates, incor
 ## 🔄 Project Workflow
 
 ### 1️⃣ Data Cleaning (Python)
-- Handled missing values  
-- Removed duplicate records  
-- Corrected data types and formats  
-- Fixed negative values and invalid discounts  
-- Standardized region and date formats  
+
+The data cleaning process was performed using Python in Google Colab. It includes handling missing values, removing duplicates, correcting data types, and fixing inconsistencies in the dataset. 
+
+🔗 **View Notebook on GitHub:**  
+[Nike Sales Data Cleaning](https://github.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/blob/main/Nike%20Sales%20Data%20cleaning%20in%20Python.ipynb)
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 - Revenue trend analysis (Yearly & Monthly)  
