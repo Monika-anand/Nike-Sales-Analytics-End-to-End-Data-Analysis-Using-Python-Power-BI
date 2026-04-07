@@ -68,7 +68,8 @@ The data cleaning process was performed using Python in Google Colab. It include
 - Product Line Analysis  
 - Region-wise Performance  
 - Online vs Retail Comparison  
-- Time Trend Analysis  
+- Time Trend Analysis
+-<a href="https://github.com/Monika-anand/Nike-Sales-Analytics-End-to-End-Data-Analysis-Using-Python-Power-BI/blob/main/Nike%20Sales%20analytics.pbix">View Dashboard-Power BI</a>
 
 ---
 
